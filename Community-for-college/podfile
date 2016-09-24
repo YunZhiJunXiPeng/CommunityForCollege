@@ -1,0 +1,10 @@
+platform :ios, '8.0'
+target 'Community-for-college' do
+pod 'AFNetworking'
+pod 'SDWebImage'
+pod 'YPTabBarController'
+pod 'MJExtension'
+pod 'SVProgressHUD'
+pod 'Masonry'
+pod 'DACircularProgress'
+end

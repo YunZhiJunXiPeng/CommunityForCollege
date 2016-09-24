@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>movie</key>
+	<array>
+		<dict>
+			<key>url</key>
+			<string>http://ws.acgvideo.com/5/68/9769747-1.mp4?wsTime=1472232809&amp;wsSecret2=e2bc29c5ad84ef56a549da5143486db2&amp;oi=2043096855</string>
+			<key>title</key>
+			<string>【敖厂长】打脸!魂斗罗水下八关存在</string>
+			<key>image</key>
+			<string>http://i1.hdslb.com/bfs/archive/7f6c3db824362454efe3f44818340956acaf4b22.jpg_280x175.jpg</string>
+		</dict>
+		<dict>
+			<key>url</key>
+			<string>http://us.sinaimg.cn/003mEWRGjx072paojtkA0504010056Vt0k01.mp4?KID=unistore,video&amp;Expires=1472214544&amp;ssig=mctCUYOwT%2f</string>
+			<key>New item</key>
+			<string></string>
+			<key>New item - 2</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>array</key>
+	<array>
+		<dict>
+			<key>photo</key>
+			<string>http://m1.dwstatic.com/mbox/article_img/shouji_485f2b1eb37e9731d3f345d33a7978dc.jpg</string>
+			<key>title</key>
+			<string>《这波怎么说》LOL五周年预告爱萝莉篇</string>
+			<key>url</key>
+			<string>http://funbox.w5.dwstatic.com/52/12/1634/3084807-99-1472106170.mp4</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>掘墓新语音预览 为你挖个洞</string>
+			<key>url</key>
+			<string>http://funbox.w2.dwstatic.com/53/11/1634/3083456-99-1472097292.mp4</string>
+			<key>photo</key>
+			<string>http://m1.dwstatic.com/mbox/article_img/shouji_bacd7f72a32aaf841f82a8ad97ed081d.jpg</string>
+		</dict>
+		<dict>
+			<key>photo</key>
+			<string>http://m1.dwstatic.com/mbox/article_img/shouji_a9ff0a8e633d7f720ffe9d3bdea00652.jpg</string>
+			<key>url</key>
+			<string>http://funbox.w2.dwstatic.com/53/6/1634/3083814-99-1472100533.mp4</string>
+			<key>title</key>
+			<string>RNG皇话：打职业最后悔什么</string>
+		</dict>
+		<dict>
+			<key>photo</key>
+			<string>http://m1.dwstatic.com/mbox/article_img/shouji_7d040171f2efb517c526232ae494ead4.jpg</string>
+			<key>url</key>
+			<string>http://funbox.w2.dwstatic.com/52/6/1634/3084262-99-1472103991.mp4</string>
+			<key>title</key>
+			<string>搜罗联盟 锐雯极限R闪反杀</string>
+		</dict>
+		<dict>
+			<key>photo</key>
+			<string>http://m1.dwstatic.com/mbox/article_img/shouji_f7294121c4ccecf64a629084ed432e2e.jpg</string>
+			<key>url</key>
+			<string>http://funbox.w5.dwstatic.com/53/12/1634/3083431-99-1472096778.mp4</string>
+			<key>title</key>
+			<string>全球赛事TOP5 船长大招抢大龙</string>
+		</dict>
+		<dict>
+			<key>photo</key>
+			<string>http://m1.dwstatic.com/mbox/article_img/shouji_924c24fc5482306c3faa2e9fe2b727ff.jpg</string>
+			<key>url</key>
+			<string>http://funbox.w2.dwstatic.com/57/2/1634/3082024-99-1472088238.mp4</string>
+			<key>title</key>
+			<string>JY教你如何克制断头台诺手</string>
+		</dict>
+		<dict>
+			<key>url</key>
+			<string>http://funbox.w2.dwstatic.com/56/5/1634/3090044-99-1472141150.mp4</string>
+			<key>photo</key>
+			<string>http://m1.dwstatic.com/mbox/article_img/shouji_ad03accbc46adea167440d533b3fc66b.jpg</string>
+			<key>title</key>
+			<string>质量王者局 Sofm龙和蛤蟆合体</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>TheShy瞎子 最强锐雯R闪熟练?</string>
+			<key>photo</key>
+			<string>http://m1.dwstatic.com/mbox/article_img/shouji_7154c8052b409f58639d66275672c383.jpg</string>
+			<key>url</key>
+			<string>http://funbox.w5.dwstatic.com/57/10/1634/3090045-99-1472141192.mp4</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>JK德莱文王者杀戮 杀人如切菜</string>
+			<key>photo</key>
+			<string>http://m1.dwstatic.com/mbox/article_img/shouji_53bfbd6e85c3c5e6d4494e4ddadef346.jpg</string>
+			<key>url</key>
+			<string>http://funbox.w2.dwstatic.com/54/1/1634/3090046-99-1472141171.mp4</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>大司马：克烈5000码强势支援</string>
+			<key>photo</key>
+			<string>http://m1.dwstatic.com/mbox/article_img/shouji_79393b770fbf5a83e4ee3d44edbba0f8.jpg</string>
+			<key>url</key>
+			<string>http://funbox.w2.dwstatic.com/51/12/1634/3102600-99-1472276523.mp4</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>极炫时刻 杂技德莱文大招飘移</string>
+			<key>photo</key>
+			<string>http://m1.dwstatic.com/mbox/article_img/shouji_3b0eff231cdc8052271afabd4f290a68.jpg</string>
+			<key>url</key>
+			<string>http://funbox.w5.dwstatic.com/53/9/1634/3101957-99-1472267348.mp4</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>万年老瞎这操作比开挂还牛</string>
+			<key>photo</key>
+			<string>http://m1.dwstatic.com/mbox/article_img/shouji_17a3d4cec781f51ce637e544bffcec4f.jpg</string>
+			<key>url</key>
+			<string>http://funbox.w2.dwstatic.com/52/10/1634/3102276-99-1472268765.mp4</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>魔性Rap LOL来教你背古诗</string>
+			<key>photo</key>
+			<string>http://m1.dwstatic.com/mbox/article_img/shouji_39617ad56984a404101aea89af232fff.jpg</string>
+			<key>url</key>
+			<string>http://funbox.w5.dwstatic.com/56/5/1634/3102499-99-1472270691.mp4</string>
+		</dict>
+	</array>
+</dict>
+</plist>
